@@ -332,7 +332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nums: 02000000070000000b0000000f000000
   target: 18
-  expectedResult: 0000000002000000
+  expectedResult: 0000000001000000
 --- !u!4 &1432743214
 Transform:
   m_ObjectHideFlags: 0
