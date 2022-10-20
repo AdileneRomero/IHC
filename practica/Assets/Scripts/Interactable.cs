@@ -36,7 +36,6 @@ public class Interactable : MonoBehaviour
     void Update()
     {
         if(isInsideZone){
-            //if(Input.GetKeyDown(KeyCode.I))
             if(interactAction.WasPerformedThisFrame()){
                 Interact();
             }
